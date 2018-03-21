@@ -1,7 +1,7 @@
 # Andama Remote Desktop
 Andama is an open source remote desktop software, with client side encryption and privacy in mind
 
-### How to compile con Ubuntu 16.04 x86_64
+### How to compile on Ubuntu 16.04 x86_64
 
 #### 1) Install the required dependeces
     apt-get update
