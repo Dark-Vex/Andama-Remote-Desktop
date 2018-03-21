@@ -18,6 +18,7 @@ Andama is an open source remote desktop software, with client side encryption an
 
 #### 4) Compile Andama (Client)
 If you whish to use your own server before start compiling you should edit the SERVER string inside clientserver.cpp
+
     cd Andama-Remote-Desktop/src/AndamaProxy
     qmake Andama.pro
     make clean
